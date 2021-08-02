@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kumaramit20799/" target="_blank"> Amit Kumar </a></h1>
 
-<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif" width="700" height="320" />
 
 A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology in Computer Science</b> from Gulzar Group of Institutes. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
 
