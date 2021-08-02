@@ -2,7 +2,7 @@
 
 A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology in Computer Science</b> from Gulzar Group of Institutes. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center">A Passionate Web </h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <h1 align="center">Tech-Stack</h1>
 
