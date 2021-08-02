@@ -21,18 +21,6 @@ I am learning fullstack developement and having knowledge of HTML,CSS , Javascri
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-<!-- I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
-
-<h1 align="center">Projects</h1>
-
-
-
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Portfolio ](https://pallavi679.github.io/Portfolio/)   | Portfolio   | issued.© 2021 Pallavi Pandey|
-| [Online Banking System ](http://bankingsystem.infinityfreeapp.com/)   | This is a Online Basic Banking System created in my Internship at Spark Foundation   | issued.© 2021 Pallavi Pandey|
-| [Online Survey ](https://github.com/Pallavi679/BlueBell)   | This is Online Survey system created for college mini project   | issued.© 2021 Pallavi Pandey| -->
 
 <hr>
 
