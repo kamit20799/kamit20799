@@ -29,7 +29,7 @@ I am learning fullstack developement and having knowledge of HTML,CSS , Javascri
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
-    <img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+    <img src=https://komarev.com/ghpvc/?username = kamit20799/>
 
 
 <a  href="https://www.linkedin.com/in/kumaramit20799/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
