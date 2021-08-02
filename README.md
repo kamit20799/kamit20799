@@ -1,7 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pallavi-pandey-8237791a0/" target="_blank"> Pallavi Pandey </a></h1>
 
-
-**kamit20799/kamit20799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 A bit about Myself, I am Amit Kumar pursuing a B.Tech CSE from Gulzar Group of Institutes. As of now, I am focused on FullStack development, wish to explore many fields. ⚡
 Here are some ideas to get you started:
 
