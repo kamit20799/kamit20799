@@ -3,7 +3,7 @@
 A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology in Computer Science</b> from Gulzar Group of Institutes. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
 
 
-<img align="centre" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif" width="800" height="400" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="800" height="500" />
 
 <h3 align="center">A Passionate Web Developer</h3>
 
