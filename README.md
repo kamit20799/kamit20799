@@ -46,9 +46,9 @@ I am learning fullstack developement and having knowledge of HTML,CSS , Javascri
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamit20799&theme=dark" alt="PallaviPandey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamit20799&theme=dark" alt="AmitKumar" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamit20799&label=Profile%20views&color=6805D3&style=flat" alt="PallaviPandey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamit20799&label=Profile%20views&color=6805D3&style=flat" alt="AmitKumar" /> </p>
    <div align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=kamit20799&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
