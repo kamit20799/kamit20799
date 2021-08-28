@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kumaramit20799/" target="_blank"> Amit Kumar </a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kumaramit20799/" target="_blank"> Amit Kumar </a></h1> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
 
 A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology in Computer Science</b> from Gulzar Group of Institutes. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
 
