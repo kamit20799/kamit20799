@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/kumaramit20799/" target="_blank"> Amit Kumar </a></h1> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 
-A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology in Computer Science</b> from Gulzar Group of Institutes. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Amit Kumar</b> graduated from <b> Bachelor of Technology in Computer Science </b> from IK Gujral Punjab Technical University. As of now, I am focused on <b>FullStack development </b> but still, wish to explore many fields. ⚡
 
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="1000" height="500" />
@@ -10,7 +10,7 @@ A bit about Myself, I am <b>Amit Kumar</b> pursuing <b> Bachelor of Technology i
 
 <h1 align="center">Tech-Stack</h1>
 
-I am learning fullstack developement and having knowledge of HTML,CSS , Javascript, NodeJS and Mysql. Beside that I am also learning C++ , C and also has basic knowledge of Python. 
+I am learning Fullstack Developement and having knowledge of HTML,CSS, Javascript, NodeJS and MySQL.
 
 <p align="center"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
